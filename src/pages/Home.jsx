@@ -95,7 +95,8 @@ export default function Home() {
   //       start: "top top",
   //       pin: true,
   //       pinSpacing: false,
-  //       end: "+=500",
+  //       end: "+=200",
+  //       // scrub: 2,
   //       // markers: true,
   //       snap: 1,
   //     });
